@@ -1,0 +1,9 @@
+@article{REPO256,
+    author = "Huang, Yansong and Zhang, Zherui and Jiao, Ao and Ma, Yuxin and Cheng, Ran",
+    journal = "IEEE Transactions on Visualization and Computer Graphics",
+    number = "1",
+    pages = "661-671",
+    title = "{A Comparative Visual Analytics Framework for Evaluating Evolutionary Processes in Multi-Objective Optimization}",
+    volume = "30",
+    year = "2024"
+}
